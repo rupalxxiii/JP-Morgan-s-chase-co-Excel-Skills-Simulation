@@ -1,17 +1,18 @@
 # JP-Morgan-s-chase-co-Excel-Skills-Simulation
 
-Completed KPMG AU Data Analytics Job Simulation on Forage📣 
+I just completed the JPMorgan Chase & Co. Excel Skills job simulation. It was a great opportunity to get some insight into what interns at JPMC may work on in.
+This one, in particular, was provided by Forage and is completely free. 
+Throughout the experience I have learned and followed practical tasks like:
 
-I successfully completed the KPMG AU Data Analytics Job Simulation on Forage, and it was an incredible learning experience! 💼🔍
+- Excel Keyboard shortcuts
 
-During this simulation, I had the privilege of working closely with the Data, Analytics & Modelling team, where I got hands-on experience in advising a 
-client on customer targeting. Here are some of the key highlights of my journey:
+- Conditional Formatting
+
+- Visual Basic for Applications (VBA) Macros
+
+- Data Visualization in Excel
+
+- Data-Driven Storytelling
 
 
-🔹 Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
-
-🔹 Assessed data quality and completeness in preparation for analysis
-
-🔹 Analyzed data to target high-value customers based on demographics and attributes
-
-🔹 Developed dashboards to communicate findings with visuals
+hashtag#excelskills hashtag#forage hashtag#jpmorganchase
